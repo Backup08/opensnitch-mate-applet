@@ -1,0 +1,12 @@
+--2017-05-10 15:06:25--  https://images.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-rqgyZJN8pHg%2FUWBRRmlqUwI%2FAAAAAAAABIY%2FT11kAIaKvGQ%2Fs1600%2Fimg_gufw.png
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving images.duckduckgo.com... 54.229.110.205
+Connecting to images.duckduckgo.com|54.229.110.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24955 (24K) [image/png]
+Saving to: ‘index.html?u=http%3A%2F%2F2.bp.blogspot.com%2F-rqgyZJN8pHg%2FUWBRRmlqUwI%2FAAAAAAAABIY%2FT11kAIaKvGQ%2Fs1600%2Fimg_gufw.png’
+
+          index.htm   0%[                    ]       0  --.-KB/s               index.html?u=http%3 100%[===================>]  24,37K  --.-KB/s    in 0,006s  
+
+2017-05-10 15:06:26 (4,01 MB/s) - ‘index.html?u=http%3A%2F%2F2.bp.blogspot.com%2F-rqgyZJN8pHg%2FUWBRRmlqUwI%2FAAAAAAAABIY%2FT11kAIaKvGQ%2Fs1600%2Fimg_gufw.png’ saved [24955/24955]
+

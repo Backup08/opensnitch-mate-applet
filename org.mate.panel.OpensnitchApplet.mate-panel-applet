@@ -1,0 +1,12 @@
+[Applet Factory]
+Id=SnitchAppletFactory
+InProcess=false
+Location=/usr/local/bin/snitch.py
+Name=Open Snitch Applet Factory
+Description=Opensnitch Firewall Status
+ 
+[SnitchApplet]
+Name=Open Snitch Firewall
+Description=A MATE Opensnitch Applet
+Icon=gufw
+MateComponentId=OAFIID:MATE_SnitchApplet;
